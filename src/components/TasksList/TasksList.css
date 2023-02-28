@@ -1,0 +1,14 @@
+.tasksList__header {
+display: flex;
+gap: 150px;
+background-color: lightgrey;
+max-width: 700px;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+.tasksList__options {
+    display: flex;
+    justify-content: space-between;
+
+}

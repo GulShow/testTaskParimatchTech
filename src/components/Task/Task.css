@@ -1,0 +1,14 @@
+.task__wrapper {
+    display: flex;
+    gap: 150px;
+    margin-bottom: 50px;
+    background-color: grey;
+    max-width: 700px;
+}
+
+.task__text {
+    width: 200px; 
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }

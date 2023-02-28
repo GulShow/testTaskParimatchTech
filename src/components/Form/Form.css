@@ -1,0 +1,36 @@
+.addForm__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px
+}
+
+.addForm__input {
+  width: 300px;
+}
+
+.addForm__error-input {
+  border: 1px red solid;
+  width: 300px;
+}
+
+.addForm__error-message {
+    color: red
+}
+
+.addForm__label {
+    font-size: 24px;
+}
+
+.addForm__button {
+    padding: 5px;
+}
+
+.addForm__container {
+    display: flex;
+    gap: 30px
+}
+
+.addForm__button-wrapper {
+    display: flex;
+    align-items: flex-end;
+}
