@@ -32,7 +32,7 @@ export const ModalWindow = ({
               <input type="checkbox" checked={checked} onChange={() => {}} className={disabled ? 'disabled-checkbox' : ''} />
             </div>
           <button className="modalWindow__button" onClick={onClose}>
-            Close
+            Close this
           </button>
         </div>
       </div>
